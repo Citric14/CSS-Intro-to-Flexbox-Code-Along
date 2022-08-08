@@ -15,9 +15,9 @@ img {
   max-width: 175px;
   height: 125px;
 }
-* {
-  /* border: 1px solid teal; */
-}
+/* * {
+  border: 1px solid teal;
+} */
 section {
   display: flex;
   flex-wrap: wrap;
